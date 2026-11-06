@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 32",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "02:18.50",
+                    "end_timestamp": "02:34.38"
+                }
+            ],
+            "hook": "Catherine trembling with uncontrollable rage screaming 'You insolent\u2014!'",
+            "cliffhanger": "Catherine plunging the glowing orange poker straight toward Juliana's face, stopping millimeters from her eye as the frame cuts to black.",
+            "reasoning": "Delivers an immediate high-stakes confrontation and a terrifying physical cliffhanger that easily hooks new viewers."
+        },
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:52.50",
+                    "end_timestamp": "02:34.38"
+                }
+            ],
+            "hook": "Catherine snapping entirely and screaming 'Silence! Silence!'",
+            "cliffhanger": "The glowing hot branding iron held mere millimeters from Juliana's eye on the final cut to black.",
+            "reasoning": "Captures the entire emotional demolition of the villain followed by a lethal physical climax that showcases the show's intense dramatic stakes."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 48",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:26.70"
+                }
+            ],
+            "hook": "Catherine turns slowly from the window with a cold, venomous smirk, vowing that healer's crown will roll back into the gutter.",
+            "cliffhanger": "Catherine chillingly declares, 'Ten days is not a wall, Alexander. It's a door. And doors can be closed from the other side.'",
+            "reasoning": "Establishes the high-stakes revenge plot and Catherine's menacing resolve immediately within the first 3 seconds, ending on a suspenseful threat."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:34.00",
+                    "end_timestamp": "01:13.50"
+                }
+            ],
+            "hook": "Catherine fiercely hisses to Agnes, 'Everyone in that chapel saw me humiliated today. Good. Let them remember it.'",
+            "cliffhanger": "Catherine hands Agnes a heavy purse of gold coins, commanding, 'Send for the priest. Tonight. And make sure no one sees him arrive.'",
+            "reasoning": "Highlights the secretive conspiracy unfolding right after her public disgrace, keeping viewers on edge about her next dangerous move."
+        }
+    ]
+}

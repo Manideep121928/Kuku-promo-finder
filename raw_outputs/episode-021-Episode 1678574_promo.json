@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 21",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:04.20",
+                    "end_timestamp": "00:42.80"
+                },
+                {
+                    "start_timestamp": "01:23.00",
+                    "end_timestamp": "01:54.00"
+                }
+            ],
+            "hook": "Prudence screams in agony that her little brother Toby is dying because the apothecary shut the door in her face.",
+            "cliffhanger": "Lady Juliana learns that the wealthy Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+            "reasoning": "This clip effectively packs the emotional rescue of a dying child and transitions into a high-stakes medical mystery at the manor, leaving viewers eager to see if Lady Juliana can uncover the truth."
+        }
+    ]
+}

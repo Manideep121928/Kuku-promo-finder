@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 33",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:04.40",
+                    "end_timestamp": "01:40.00"
+                }
+            ],
+            "hook": "The Lord threatens to send the maid's seven-year-old brother to the county gaol before sunrise.",
+            "cliffhanger": "The maid breaks down, sobbing 'Yes' as the Lord traps her into framing Juliana.",
+            "reasoning": "High emotional stakes and ruthless coercion that instantly hook the viewer into the villain's manipulation."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "02:04.50",
+                    "end_timestamp": "02:44.50"
+                }
+            ],
+            "hook": "The Lord chillingly declares, 'That is witchcraft,' condemning the woman who saved the maid's brother.",
+            "cliffhanger": "The maid collapses onto the floor in total despair, crying out 'I am sorry, Lady Juliana...'",
+            "reasoning": "Captures the devastating betrayal and tragic climax of the episode, leaving viewers desperate to know if Juliana is saved."
+        }
+    ]
+}

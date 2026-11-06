@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 36",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:43.50",
+                    "end_timestamp": "02:18.80"
+                }
+            ],
+            "hook": "Alexander's mother reveals they arrested his wife Juliana for poisoning her.",
+            "cliffhanger": "Alexander discovers that Juliana has been condemned to death.",
+            "reasoning": "High emotional stakes and a clear betrayal hook that pulls new viewers into the tragic conflict."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "02:32.00",
+                    "end_timestamp": "03:20.75"
+                }
+            ],
+            "hook": "Alexander learns Rupert and Catherine are marrying in two days and will kill his wife afterward.",
+            "cliffhanger": "Alexander vows revenge, declaring 'their dead Duke is coming home' as he stares into the snowy night.",
+            "reasoning": "Delivers an ultimate badass revenge arc teaser that creates immediate tension and excitement for the next episode."
+        }
+    ]
+}

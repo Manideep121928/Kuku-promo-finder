@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 41",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:08.50",
+                    "end_timestamp": "00:28.80"
+                },
+                {
+                    "start_timestamp": "01:21.00",
+                    "end_timestamp": "01:36.09"
+                }
+            ],
+            "hook": "Catherine sneers a cruel warning before parading Juliana in heavy iron shackles down the aisle.",
+            "cliffhanger": "An ear-splitting explosion blasts the cathedral doors wide open as mysterious forces breach the venue.",
+            "reasoning": "Quickly establishes the antagonist's cruelty and the humiliation of the protagonist, leading directly into an explosive act of vengeance."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 5",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:04.20",
+                    "end_timestamp": "00:33.40"
+                }
+            ],
+            "hook": "Lord Ashcroft tells his newlywed daughter Juliana, 'You leave as no daughter of mine... your inheritance is revoked.'",
+            "cliffhanger": "Juliana breaks down in tears asking her father, 'You truly mean it? You are my father!' with no answer given.",
+            "reasoning": "High emotional stakes immediately grab the viewer as a father disowns and strips his daughter of everything right after her wedding."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:46.80",
+                    "end_timestamp": "01:25.40"
+                }
+            ],
+            "hook": "Lady Ashcroft maliciously snatches the late mother's heirloom ledger from Juliana's hands and flings it into the mud.",
+            "cliffhanger": "Juliana sits in the dirt weeping, 'They destroyed it,' while her rugged husband calmly tells her, 'They dirtied it. That is not the same thing.'",
+            "reasoning": "Showcases the cruelty of the stepfamily followed by the immediate, touching loyalty and comfort of the new husband."
+        }
+    ]
+}

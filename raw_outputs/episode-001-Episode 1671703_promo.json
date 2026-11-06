@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 1",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:11.00",
+                    "end_timestamp": "00:43.90"
+                }
+            ],
+            "hook": "The Matriarch bluntly tells Juliana, 'Not anymore,' when asked if Gerald is waiting for her.",
+            "cliffhanger": "Juliana gasps in devastation, crying 'No...' as her sister gloats that Gerald is marrying her instead.",
+            "reasoning": "Quickly establishes the core betrayal and shocking revelation of the bride being replaced at the altar by her own sister."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:35.80",
+                    "end_timestamp": "02:18.00"
+                }
+            ],
+            "hook": "The Matriarch tells a heartbroken Juliana that she has embarrassed the family and that Clarissa is the jewel worth protecting.",
+            "cliffhanger": "The screen cuts to black on Juliana's face as her tears harden into cold, resolute defiance.",
+            "reasoning": "Focuses on the emotional cruelty of the family and leaves the viewer hooked on Juliana's inevitable revenge."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 49",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:09.00",
+                    "end_timestamp": "00:41.50"
+                }
+            ],
+            "hook": "Father Thomas dryly remarks on a priest and a disgraced bride meeting before dawn in her bedchamber.",
+            "cliffhanger": "Catherine sternly warns him that no one must ever suspect his face belongs to that morning.",
+            "reasoning": "Establishes the dangerous illicit dynamic and high stakes between the priest and Catherine right away."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:12.60",
+                    "end_timestamp": "02:04.50"
+                }
+            ],
+            "hook": "Father Thomas demands to know what Catherine actually needs, challenging her plainly.",
+            "cliffhanger": "Father Thomas warns her that careful men still hang when the crime is treason against a Duke.",
+            "reasoning": "Focuses purely on the high-stakes political conspiracy and the mortal danger of their treasonous alliance."
+        }
+    ]
+}

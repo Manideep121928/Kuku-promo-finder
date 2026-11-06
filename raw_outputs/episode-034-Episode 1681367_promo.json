@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 34",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:21.00",
+                    "end_timestamp": "01:27.20"
+                },
+                {
+                    "start_timestamp": "02:46.80",
+                    "end_timestamp": "03:10.00"
+                }
+            ],
+            "hook": "Lady Juliana slams her cuffed hands against the wooden railing and shouts in indignant fury, 'It was not a ritual!'",
+            "cliffhanger": "The Judge raises his hand to pronounce the final sentence against Lady Juliana as a heavy, ominous silence hangs over the courtroom.",
+            "reasoning": "Highlights Lady Juliana's fierce defiance against the false witchcraft charges, ending on a high-stakes sentencing cliffhanger that draws in new viewers."
+        }
+    ]
+}

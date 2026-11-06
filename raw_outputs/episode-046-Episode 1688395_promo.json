@@ -1,0 +1,41 @@
+{
+    "episode_number": "Episode 46",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:07.10",
+                    "end_timestamp": "00:31.80"
+                }
+            ],
+            "hook": "The High Priest marches down the aisle with armed guards and announces the sanctuary is under Crown seizure, declaring their marriage invalid.",
+            "cliffhanger": "The High Priest pronounces: 'Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.'",
+            "reasoning": "Captures the immediate shock of the intrusion and lays out the core conflict of the episode in a punchy, high-stakes window."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:58.20",
+                    "end_timestamp": "01:25.50"
+                }
+            ],
+            "hook": "Juliana delivers a fiery slap-in-the-face retort: 'I didn't ask this church for permission to survive, Father.'",
+            "cliffhanger": "Juliana shouts defiantly: 'God married us, Father! You are just angry no one asked you first!'",
+            "reasoning": "Focuses on the emotional empowerment and defiance of the female lead, giving viewers a satisfying and dramatic confrontation."
+        },
+        {
+            "option_number": 3,
+            "segments": [
+                {
+                    "start_timestamp": "01:51.80",
+                    "end_timestamp": "02:23.88"
+                }
+            ],
+            "hook": "Alexander coldly demands a ten-day ecclesiastical trial right in front of the armed guards.",
+            "cliffhanger": "Catherine smiles wickedly and whispers: 'Ten days is plenty of time.'",
+            "reasoning": "Showcases the ongoing power struggle and ends on a chilling villain tease that hooks viewers for the next episode."
+        }
+    ]
+}

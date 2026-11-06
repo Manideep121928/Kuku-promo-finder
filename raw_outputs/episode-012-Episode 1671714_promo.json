@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 12",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.50",
+                    "end_timestamp": "00:27.90"
+                }
+            ],
+            "hook": "The Constable falsely arrests Alexander for grand theft, sparking a furious confrontation.",
+            "cliffhanger": "Clarissa and Gerald reveal they planted the watch and corner Juliana with a malicious setup.",
+            "reasoning": "Establishes the core conflict, framing, and immediate villainous threat within a standalone window."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:44.00",
+                    "end_timestamp": "01:27.21"
+                }
+            ],
+            "hook": "Clarissa maliciously demands Juliana retrieve an emerald ring from frozen blackthorn briars with her bare hands.",
+            "cliffhanger": "Juliana locks eyes with Clarissa and agrees to the brutal task to save her husband from the gallows.",
+            "reasoning": "Highlights the high-stakes sadistic ultimatum and the emotional sacrifice, driving immediate viewer engagement."
+        }
+    ]
+}

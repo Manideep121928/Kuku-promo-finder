@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 43",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:03.90",
+                    "end_timestamp": "00:21.50"
+                }
+            ],
+            "hook": "Rupert shrieks in panic, ordering the royal guards to arrest the true Duke, only to be completely defied.",
+            "cliffhanger": "The Royal Guard Captain snaps a crisp salute to Alexander and states firmly, 'No. He is your Duke.'",
+            "reasoning": "Delivers an immediate power dynamic flip and betrayal in under 20 seconds, perfect for short-form retention."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:39.80",
+                    "end_timestamp": "01:54.96"
+                }
+            ],
+            "hook": "Rupert frantically turns on his co-conspirator and screams, 'Sterling handled the report!'",
+            "cliffhanger": "Lord Sterling's escape is abruptly blocked by a stern police constable asking, 'Going somewhere, Lord Sterling?' right before the fade to black.",
+            "reasoning": "High-octane escape attempt and sudden cornering creates an instant cliffhanger that compels viewers to click the next episode."
+        }
+    ]
+}

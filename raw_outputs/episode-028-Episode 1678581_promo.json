@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 28",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:24.80",
+                    "end_timestamp": "00:52.20"
+                }
+            ],
+            "hook": "The bedridden Dowager Duchess suddenly sits up, pointing directly at Rupert and shouting, 'I was poisoned! And you... you knew!'",
+            "cliffhanger": "The Duchess collapses back onto the pillows coughing violently, while the guard seizes Juliana and drags her away.",
+            "reasoning": "Delivers an immediate betrayal reveal from the matriarch, high tension, and an unresolved struggle."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:31.20",
+                    "end_timestamp": "02:18.50"
+                }
+            ],
+            "hook": "Catherine looks down at the journal inscription and triumphantly reveals, 'Lady Juliana Ashcroft.'",
+            "cliffhanger": "Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway before cutting sharply to black.",
+            "reasoning": "Explodes with the secret identity reveal, intense emotional conflict over her mother's heritage, and a dark dungeon cliffhanger."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 25",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:13.20",
+                    "end_timestamp": "00:41.20"
+                }
+            ],
+            "hook": "Alexander grabs Juliana's shoulder, she gasps in pain, and the torn fabric reveals a bloody riding-crop welt.",
+            "cliffhanger": "Alexander demands where she met Lady Catherine, leaving her motive and the manor's secrets hanging.",
+            "reasoning": "Quickly showcases physical conflict, the revelation of abuse by Lady Catherine, and high stakes that capture immediate viewer interest."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:14.20",
+                    "end_timestamp": "01:54.40"
+                }
+            ],
+            "hook": "Juliana chillingly reveals the truth: 'Poison. Arsenic.'",
+            "cliffhanger": "Alexander anxiously asks 'Will you be going there again?', leaving Juliana's dangerous decision unresolved.",
+            "reasoning": "Focuses directly on the dark conspiracy of the systematic poisoning, ramping up suspense around the medical mystery."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 2",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:30.60"
+                }
+            ],
+            "hook": "Gerald callously dumps Juliana at the altar, telling her she is far too plain.",
+            "cliffhanger": "Juliana begs her father for help, but her father coldly tells her to accept Gerald's choice and not disgrace them.",
+            "reasoning": "Presents a high-stakes emotional public betrayal that immediately hooks the viewer into rooting for the humiliated bride."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:47.60",
+                    "end_timestamp": "01:30.80"
+                }
+            ],
+            "hook": "Clarissa viciously taunts Juliana, calling her a kitchen maid who wandered into the wrong wedding.",
+            "cliffhanger": "Juliana holds the entire hall spellbound, staring up at Gerald with fierce conviction as she starts her indictment.",
+            "reasoning": "Showcases the satisfying pivot from victimhood to fierce retaliation, making viewers want to see her complete revenge."
+        }
+    ]
+}

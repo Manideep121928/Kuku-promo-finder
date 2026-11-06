@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 8",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:28.10",
+                    "end_timestamp": "00:51.30"
+                }
+            ],
+            "hook": "Juliana reaches out to touch Alexander's face to trim his beard, and Alexander's large, rough hand firmly catches her wrist in midair.",
+            "cliffhanger": "Alexander lowers his head with a faint smirk and tells her 'We'll see' regarding whether she will ever get to trim his beard.",
+            "reasoning": "Highlights the playful romantic tension and chemistry between the two leads in a standalone sequence."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:57.10",
+                    "end_timestamp": "01:18.00"
+                }
+            ],
+            "hook": "Juliana asks Alexander point-blank about his war scars with deep compassion.",
+            "cliffhanger": "Juliana looks into the firelight and utters, 'Perhaps I was wrong,' as a contented smile spreads across her lips before the fade out.",
+            "reasoning": "Captures the emotional turning point of the episode where Juliana redefines her understanding of true wealth."
+        }
+    ]
+}

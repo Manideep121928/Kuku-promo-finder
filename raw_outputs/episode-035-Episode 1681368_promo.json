@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 35",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:36.50",
+                    "end_timestamp": "00:58.00"
+                }
+            ],
+            "hook": "Alexander's mother breaks down sobbing and exclaims, 'Alexander!' upon realizing he is alive.",
+            "cliffhanger": "Alexander's mother reveals, 'I buried you,' setting up the mystery of his disappearance.",
+            "reasoning": "Delivers an immediate emotional punch of a presumed-dead son reuniting with his grieving mother, creating instant standalone empathy."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "02:06.00",
+                    "end_timestamp": "02:37.50"
+                }
+            ],
+            "hook": "Alexander declares with chilling certainty, 'Because someone wanted you to believe I was dead.'",
+            "cliffhanger": "Alexander drops the bombshell that the conspirators rule Ashwood now, leaving his mother in sheer dread.",
+            "reasoning": "Pitches the high-stakes conspiracy angle directly, hooking viewers with a dangerous plot and an explosive realization."
+        }
+    ]
+}

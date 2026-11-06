@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 9",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:02.00",
+                    "end_timestamp": "00:13.30"
+                }
+            ],
+            "hook": "Heavy, frantic pounding breaks the calm as a desperate mother begs Juliana to save her burning, dying child.",
+            "cliffhanger": "Juliana prepares to treat the critical patient as the mother lays him desperately on the table.",
+            "reasoning": "Immediately draws viewers in with high maternal panic and medical stakes."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:32.10",
+                    "end_timestamp": "01:55.50"
+                }
+            ],
+            "hook": "The Former Groom drops a bombshell about a war veteran bearing the exact scar of the late Duke.",
+            "cliffhanger": "The Blond Nobleman stares into the fireplace in creeping paranoia as dark dread paralyzes him right before the cut to black.",
+            "reasoning": "Delivers high-stakes political intrigue and a chilling cliffhanger for mystery lovers."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 13",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:47.00",
+                    "end_timestamp": "01:07.00"
+                },
+                {
+                    "start_timestamp": "01:43.00",
+                    "end_timestamp": "01:58.88"
+                }
+            ],
+            "hook": "Alexander screams in terror as Juliana crawls into the razor-sharp briars, instantly getting her hands brutally slashed.",
+            "cliffhanger": "Juliana's bloody fist grips the lost emerald signet ring in the frozen dirt just as the screen cuts to black.",
+            "reasoning": "Delivers maximum high-stakes emotional pain, showcasing brutal physical sacrifice and a triumphant discovery that leaves viewers eager to see what happens next."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 38",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:27.50"
+                }
+            ],
+            "hook": "A starving prisoner is shockingly slipped a piece of bread by a sympathetic guard.",
+            "cliffhanger": "Juliana clutching the bread with tears in her eyes, whispering 'Thank you' as she realizes her grim fate.",
+            "reasoning": "Highlights the emotional core of the scene, showing unexpected kindness in the dungeon followed by immediate vulnerability."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:00.00",
+                    "end_timestamp": "01:27.91"
+                }
+            ],
+            "hook": "Juliana fiercely declares 'I will not give them my husband' just as wedding bells toll.",
+            "cliffhanger": "Juliana smiles defiantly through her terror as the scene cuts to black with a dramatic musical swell.",
+            "reasoning": "Captures the high-stakes climax, combining her unwavering loyalty with the chilling onset of her execution day."
+        }
+    ]
+}

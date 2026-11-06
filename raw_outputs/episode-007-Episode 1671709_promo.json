@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 7",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:22.00",
+                    "end_timestamp": "01:09.50"
+                }
+            ],
+            "hook": "Aristocratic Woman sneeringly asks Juliana, 'This is where you live now?' right after sizing up her poor conditions.",
+            "cliffhanger": "Gerald angrily pointing his finger in Juliana's face, threatening to make her beggar husband disappear.",
+            "reasoning": "Captures the intense verbal clash and class conflict of her former life confronting her present reality, ending on a high-stakes threat."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:18.50",
+                    "end_timestamp": "01:39.00"
+                }
+            ],
+            "hook": "The towering Scarred Bearded Man steps directly toward Gerald, whose arrogant bravado instantly vanishes into cold dread.",
+            "cliffhanger": "The carriage rapidly jolting away as Gerald flees in sheer terror from the silent man.",
+            "reasoning": "Delivers instant gratification and a satisfying power shift where a silent look instantly defeats the arrogant antagonist."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 47",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:07.00",
+                    "end_timestamp": "01:14.80"
+                },
+                {
+                    "start_timestamp": "01:35.50",
+                    "end_timestamp": "02:14.00"
+                }
+            ],
+            "hook": "Lady Ashbourne orders Catherine to be cast into the road for aiding poison in her veins.",
+            "cliffhanger": "Catherine breaks down and completely prostrates herself on the stone floor before Juliana and Alexander as the scene cuts to black.",
+            "reasoning": "Delivers the ultimate power dynamic shift where the villain is forced into total submission as a scullery maid."
+        }
+    ]
+}

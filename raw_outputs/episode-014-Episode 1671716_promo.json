@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 14",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:25.50"
+                }
+            ],
+            "hook": "Juliana's blood-streaked, mud-caked hand uncurls from the sharp thorns to reveal the emerald signet ring.",
+            "cliffhanger": "Alexander stares at her bleeding, lacerated hands in absolute agony, asking 'What have they done to you?'",
+            "reasoning": "Presents a high-stakes rescue and romantic sacrifice arc that immediately grabs viewers with physical pain and intense emotional payoff."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:43.50",
+                    "end_timestamp": "01:27.63"
+                }
+            ],
+            "hook": "Alexander kneeling before Juliana by the hearth, gently bandaging her torn, bleeding wrists.",
+            "cliffhanger": "Alexander's knuckles clench into a furious fist over a bucket of bloody water as a low bass boom hits the cut to black.",
+            "reasoning": "Showcases the deep emotional bond and transitions into a powerful revenge vow that hooks thriller and romance fans alike."
+        }
+    ]
+}

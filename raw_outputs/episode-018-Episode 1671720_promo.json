@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 18",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:02.10",
+                    "end_timestamp": "00:28.90"
+                },
+                {
+                    "start_timestamp": "01:08.00",
+                    "end_timestamp": "01:38.50"
+                }
+            ],
+            "hook": "Juliana wakes up choking on thick smoke and screams 'Alexander!' as flames lick the bedroom door.",
+            "cliffhanger": "Alexander desperately shields Juliana on the floor as a massive ceiling beam crashes right where they stood, leaving his cold, lethal vow hanging.",
+            "reasoning": "High-octane survival action featuring a terrifying fire trap, intense physical rescue, and a chilling promise of revenge."
+        }
+    ]
+}

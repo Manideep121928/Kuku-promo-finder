@@ -7,8 +7,12 @@ st.set_page_config(page_title="Kuku Promo Finder", layout="wide", page_icon="ðŸŽ
 
 st.markdown("""
     <style>
-    .main { background-color: #0e1117; }
-    .stMetric { background-color: #161b22; padding: 15px; border-radius: 10px; border: 1px solid #30363d; }
+    /* Adaptive styling for light and dark modes */
+    .stMetric { 
+        padding: 15px; 
+        border-radius: 10px; 
+        border: 1px solid rgba(128, 128, 128, 0.2); 
+    }
     </style>
 """, unsafe_allow_html=True)
 

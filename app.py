@@ -20,7 +20,7 @@ st.title("🎬 Kuku Microdrama Promo Extractor & Ranker")
 st.markdown("Automated AI pipeline extracting, analyzing, and ranking high-converting promotional clips from screenplays.")
 st.divider()
 
-output_dir = "raw_outputs"  # Pointing to your new multi-option folder
+output_dir = "raw_outputs"
 
 @st.cache_data
 def load_promos():

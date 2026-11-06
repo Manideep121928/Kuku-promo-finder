@@ -26,9 +26,8 @@ def load_promos():
             if file.endswith(".json"):
                 with open(os.path.join(output_dir, file), 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    # Simple heuristic scoring based on text length/richness for ranking demo
+                    # Heuristic scoring based on narrative richness
                     reasoning = data.get('reasoning', '')
-                    hook = data.get('hook', '')
                     score = min(98, 75 + len(reasoning) // 15 + (5 if "hook" in reasoning.lower() or "stakes" in reasoning.lower() else 0))
                     data['promo_score'] = score
                     promos.append(data)
@@ -43,7 +42,6 @@ def load_promos():
 promos = load_promos()
 
 if promos:
-    # Top metrics summary
     col_m1, col_m2, col_m3 = st.columns(3)
     with col_m1:
         st.metric(label="Total Screenplays Processed", value=f"{len(promos)} Episodes")
@@ -54,7 +52,6 @@ if promos:
         
     st.markdown("")
 
-    # Tabs for Browsing vs. Leaderboard Ranking
     tab1, tab2 = st.tabs(["📺 Browse All Episodes", "🏆 Top Ranked Promos (Leaderboard)"])
 
     with tab1:
@@ -98,18 +95,31 @@ if promos:
 
     with tab2:
         st.subheader("🏆 Top High-Converting Promo Clips Leaderboard")
-        st.markdown("Sorted by narrative impact, hook strength, and standalone retention score.")
+        st.markdown("Ranked by hook impact, narrative tension, and retention score to determine posting priority.")
         
-        # Sort by score descending for the leaderboard ranking
         ranked_promos = sorted(promos, key=lambda x: x.get('promo_score', 0), reverse=True)
         
-        for idx, promo in enumerate(ranked_promos[:10], start=1):
-            with st.expander(f"#{idx} — {promo.get('episode_number')} (Score: {promo.get('promo_score')}/100)"):
+        for idx, promo in enumerate(ranked_promos[:15], start=1):
+            ep_num = promo.get('episode_number', 'Episode')
+            score = promo.get('promo_score', 0)
+            segments = promo.get('segments', [])
+            
+            # Show timestamp range clearly in the expander title
+            time_range = "N/A"
+            if segments:
+                start = segments[0].get('start_timestamp', '00:00')
+                end = segments[-1].get('end_timestamp', '00:00')
+                time_range = f"{start} to {end}"
+
+            with st.expander(f"Rank #{idx}: {ep_num} | Clip Window: [{time_range}] (Score: {score}/100)"):
                 rc1, rc2 = st.columns(2)
                 with rc1:
                     st.markdown(f"**🪝 Hook:** {promo.get('hook', 'N/A')}")
                     st.markdown(f"**🧗 Cliffhanger:** {promo.get('cliffhanger', 'N/A')}")
                 with rc2:
-                    st.markdown(f"**🧠 Standalone Appeal:** {promo.get('reasoning', 'N/A')}")
+                    st.markdown(f"**⏱️ Exact Segments:**")
+                    for seg in segments:
+                        st.code(f"{seg.get('start_timestamp', '00:00')} ➡️ {seg.get('end_timestamp', '00:00')}")
+                    st.markdown(f"**🧠 Why Post First:** {promo.get('reasoning', 'N/A')}")
 else:
     st.warning("⏳ No promos found yet. Check your `raw_outputs` folder!")

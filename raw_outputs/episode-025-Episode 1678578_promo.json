@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 25",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:13.20",
+                    "end_timestamp": "00:41.20"
+                }
+            ],
+            "hook": "Alexander grips Juliana's shoulder, she gasps in pain, and the torn fabric reveals a raw, bloody welt.",
+            "cliffhanger": "Alexander demands to know where she met Lady Catherine, leaving her motive and danger hanging.",
+            "reasoning": "Quickly establishes the physical abuse, the culprit, and the immediate tension between the characters."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:14.20",
+                    "end_timestamp": "01:41.00"
+                }
+            ],
+            "hook": "Juliana drops the chilling truth that the Dowager Duchess is being systematically poisoned.",
+            "cliffhanger": "Alexander processes the sinister calculation behind the slow poisoning as his fist tightens in fury.",
+            "reasoning": "Highlights the medical mystery and high-stakes conspiracy angle that appeals to drama fans."
+        }
+    ]
+}

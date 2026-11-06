@@ -1,0 +1,21 @@
+{
+    "episode_number": "Episode 27",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:16.80",
+                    "end_timestamp": "00:34.90"
+                },
+                {
+                    "start_timestamp": "02:11.00",
+                    "end_timestamp": "02:30.50"
+                }
+            ],
+            "hook": "The Dowager Duchess weeping as she reveals Juliana's ring belonged to her lost son.",
+            "cliffhanger": "Juliana's wide, terrified eyes as she is dragged away by the guard after being framed for poisoning.",
+            "reasoning": "Quickly connects the emotional core of the lost heir secret with the high-stakes framing and arrest."
+        }
+    ]
+}

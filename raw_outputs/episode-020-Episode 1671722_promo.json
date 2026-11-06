@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 20",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:25.50",
+                    "end_timestamp": "00:42.50"
+                }
+            ],
+            "hook": "Rupert admits with a sinister grin that he has ensured the Dowager Duchess will not survive the winter.",
+            "cliffhanger": "Catherine gloats about how much longer the 'frail thing' can survive, ending on a cold, calculating scheme.",
+            "reasoning": "Highlights the direct murder plot against the Duchess, packing maximum villainous tension into a tight window."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:06.80",
+                    "end_timestamp": "01:28.00"
+                }
+            ],
+            "hook": "Juliana fiercely rejects Seamus's plea, declaring that if she stops working, the lung fever wins.",
+            "cliffhanger": "Juliana states with steely resolve: 'They have reduced me to myself... And I am not finished.'",
+            "reasoning": "Showcases the resilient female lead fighting for her people despite losing everything, driving high emotional engagement."
+        }
+    ]
+}

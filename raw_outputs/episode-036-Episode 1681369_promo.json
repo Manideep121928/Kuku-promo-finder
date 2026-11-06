@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 36",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:43.50",
+                    "end_timestamp": "02:22.00"
+                }
+            ],
+            "hook": "Alexander's mother reveals that Rupert and Catherine arrested Juliana and accused her of poisoning.",
+            "cliffhanger": "Alexander learns in horror that Juliana is scheduled to be executed right after Rupert and Catherine's wedding.",
+            "reasoning": "High-stakes emotional confrontation that clearly establishes the ticking-clock conflict and betrayal."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "02:40.00",
+                    "end_timestamp": "03:20.75"
+                }
+            ],
+            "hook": "Alexander roars with conviction that they have stolen his home and taken Juliana.",
+            "cliffhanger": "Alexander vows with a cold, thunderous finale that their dead Duke is coming home before the wedding begins.",
+            "reasoning": "Delivers an ultimate badass revenge hook and a powerful cliffhanger declaration that guarantees viewer retention."
+        }
+    ]
+}

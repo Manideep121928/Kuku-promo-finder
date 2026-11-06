@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 13",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:45.80",
+                    "end_timestamp": "01:14.00"
+                }
+            ],
+            "hook": "Juliana drops to her knees and screams in pain as blackthorn spines viciously shred her bare hands.",
+            "cliffhanger": "Alexander screams out in utter torment as he is physically restrained from rushing into the razor-sharp thicket to save her.",
+            "reasoning": "High emotional stakes, immediate physical shock, and intense suffering that instantly pulls new viewers into the narrative conflict."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:29.00",
+                    "end_timestamp": "01:58.88"
+                }
+            ],
+            "hook": "Juliana crawls through bloody thorns with deep lacerations across her face, frantically scraping the frozen earth.",
+            "cliffhanger": "Juliana's bloodied fist firmly grips the legendary emerald signet ring just as the scene abruptly cuts to black.",
+            "reasoning": "Delivers a satisfying visual payoff combined with agonizing physical peril, creating a compelling hook and cliffhanger combo."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 3",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "01:00.00",
+                    "end_timestamp": "01:25.50"
+                }
+            ],
+            "hook": "Guards aggressively grab Juliana by the shoulders and drag her backwards as she screams for help.",
+            "cliffhanger": "The mysterious bearded stranger effortlessly blocks a guard's strike and drops him instantly with a single devastating punch.",
+            "reasoning": "High-octane action sequence that showcases a satisfying rescue and introduces a badass savior, perfect for quick viewer retention."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "02:00.00",
+                    "end_timestamp": "02:25.75"
+                }
+            ],
+            "hook": "The stranger presents a polished silver band and says, 'They took that from you... I am offering it back.'",
+            "cliffhanger": "The stranger drops to one knee in front of high society to propose, leaving the family in jaw-dropped shock as Juliana looks down with a trembling smile.",
+            "reasoning": "Delivers the ultimate emotional payoff and status-reversal fantasy that drives microdrama engagement."
+        }
+    ]
+}

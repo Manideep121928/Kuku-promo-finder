@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 17",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:09.30",
+                    "end_timestamp": "00:36.50"
+                }
+            ],
+            "hook": "Juliana asks Alexander if he would stand between her and those men 'Even if there were ten of them?'",
+            "cliffhanger": "Alexander and Juliana's hands locking together tightly as he vows no one will ever hurt her again, fading out on intense romantic tension.",
+            "reasoning": "Highlights the intense protective chemistry and absolute devotion between the leads, capturing a complete emotional arc in under 30 seconds."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:56.50",
+                    "end_timestamp": "01:22.50"
+                }
+            ],
+            "hook": "Juliana confesses with total vulnerability: 'I was frightened... Of losing you.'",
+            "cliffhanger": "Alexander tilts his head down toward her with a warm, whispering smile as their racing hearts mirror one another.",
+            "reasoning": "Showcases the tender, high-stakes romance by the hearth, drawing viewers into the deep emotional bond forming between the characters."
+        }
+    ]
+}

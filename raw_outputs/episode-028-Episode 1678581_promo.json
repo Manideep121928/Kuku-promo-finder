@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 28",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:01.80",
+                    "end_timestamp": "00:32.80"
+                }
+            ],
+            "hook": "Catherine steps down hard upon the fallen herbarium book while accusing Juliana of poisoning the Duchess.",
+            "cliffhanger": "The Dowager Duchess wakes up, points at Rupert and Catherine, and gasps, 'I was poisoned! And you... you knew!'",
+            "reasoning": "This clip immediately engages viewers with the injustice of the frame-up and delivers a high-stakes turning point when the bedridden victim awakens to accuse the villains."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:10.80",
+                    "end_timestamp": "01:41.20"
+                }
+            ],
+            "hook": "Catherine ruthlessly yanks the silver locket off Juliana's neck, mocking her as a gutter rat.",
+            "cliffhanger": "Catherine opens Juliana's mother's book, reads the inscription, and triumphanty unmasks her as Lady Juliana Ashcroft.",
+            "reasoning": "Presents a strong identity-reveal trope that hooks viewers instantly, building intense satisfaction and curiosity about how the heroine's secret will be used against her."
+        }
+    ]
+}

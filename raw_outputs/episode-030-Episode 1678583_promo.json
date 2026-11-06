@@ -1,0 +1,37 @@
+{
+    "episode_number": "Episode 30",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:08.80",
+                    "end_timestamp": "00:39.80"
+                },
+                {
+                    "start_timestamp": "01:25.80",
+                    "end_timestamp": "01:41.80"
+                }
+            ],
+            "hook": "The elder nobleman pins Rupert against the wall with his cane, snarling, 'A peasant weed... you burn them!'",
+            "cliffhanger": "The conspirators lock in their plan to frame Juliana for witchcraft and send her before the magistrate tomorrow.",
+            "reasoning": "Quickly establishes the deadly conspiracy and high-stakes manipulation targeting the protagonist."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:25.80",
+                    "end_timestamp": "01:33.40"
+                },
+                {
+                    "start_timestamp": "02:05.50",
+                    "end_timestamp": "02:31.21"
+                }
+            ],
+            "hook": "The elder nobleman chillingly advises Catherine to 'call it witchcraft' when asked about the prisoner.",
+            "cliffhanger": "Juliana sits shivering and chained in the flooded subterranean wet cell, looking up in dread as the scene cuts to black.",
+            "reasoning": "Focuses on the ruthless plot to fabricate a witchcraft charge and contrasts it with the heroine's grim imprisonment."
+        }
+    ]
+}

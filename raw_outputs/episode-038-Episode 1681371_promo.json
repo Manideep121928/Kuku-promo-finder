@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 38",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:27.50"
+                }
+            ],
+            "hook": "Juliana is slumped in shackles on a damp stone floor, starving and weak, when a guard secretly slides a loaf of bread through the bars.",
+            "cliffhanger": "Juliana desperately tears off a ravenous bite of the bread and weeps, whispering 'Alexander... are you safe?' with her fate unknown.",
+            "reasoning": "Captures a high-stakes moment of secret humanity and survival against a dark prison background, instantly drawing viewers into her plight."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "00:55.50",
+                    "end_timestamp": "01:27.91"
+                }
+            ],
+            "hook": "Juliana defiantly declares 'I will not give them my husband' just as church bells begin tolling ominously overhead.",
+            "cliffhanger": "Juliana grips the prison bars, smiling bravely through her tears as she whispers her husband's name right before a dramatic cut to black.",
+            "reasoning": "Delivers intense emotional defiance and a racing countdown to her execution, ending on a powerful, gripping note that hooks new viewers."
+        }
+    ]
+}

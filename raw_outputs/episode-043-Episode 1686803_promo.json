@@ -1,0 +1,29 @@
+{
+    "episode_number": "Episode 43",
+    "promo_options": [
+        {
+            "option_number": 1,
+            "segments": [
+                {
+                    "start_timestamp": "00:00.00",
+                    "end_timestamp": "00:24.00"
+                }
+            ],
+            "hook": "Rupert frantically shrieks 'This man is an imposter! Arrest him!' while royal guards defy him.",
+            "cliffhanger": "Lord Sterling clutches his gold-headed cane in stunned shock as tension spreads through the church.",
+            "reasoning": "Quickly establishes the power reversal where the guards refuse to arrest the true Duke, hooking viewers on the sudden betrayal."
+        },
+        {
+            "option_number": 2,
+            "segments": [
+                {
+                    "start_timestamp": "01:39.80",
+                    "end_timestamp": "01:54.96"
+                }
+            ],
+            "hook": "Rupert frantically betrays Lord Sterling by screaming 'Sterling handled the report!'",
+            "cliffhanger": "Extreme close-up on Lord Sterling's face frozen in pure terror as his escape is completely cut off by a constable.",
+            "reasoning": "A high-stakes escape attempt and immediate cornering that delivers immediate gratification and suspense for new viewers."
+        }
+    ]
+}

@@ -26,7 +26,6 @@ def load_promos():
             if file.endswith(".json"):
                 with open(os.path.join(output_dir, file), 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    # Heuristic sorting metric based on narrative richness
                     reasoning = data.get('reasoning', '')
                     sort_weight = len(reasoning) + (50 if "hook" in reasoning.lower() or "stakes" in reasoning.lower() else 0)
                     data['sort_weight'] = sort_weight
@@ -37,14 +36,11 @@ def load_promos():
         match = re.search(r'\d+', ep_str)
         return int(match.group()) if match else 0
 
-    # Sort all promos to establish the global ranking
     sorted_promos = sorted(promos, key=lambda x: x.get('sort_weight', 0), reverse=True)
     
-    # Assign global rank property to each promo
     for rank, promo in enumerate(sorted_promos, start=1):
         promo['global_rank'] = rank
         
-    # Return sorted originally by episode number for the sidebar
     return sorted(promos, key=get_episode_number), sorted_promos
 
 promos_by_ep, promos_ranked = load_promos()
@@ -93,9 +89,10 @@ if promos_by_ep:
                 st.warning(selected_data.get('cliffhanger', 'N/A'))
             
             with col2:
-                st.markdown("**⏱️ Suggested Timestamps:**")
+                st.markdown("**⏱️ Segment-by-Segment Promo Ranking:**")
                 segments = selected_data.get('segments', [])
-                for seg in segments:
+                for idx, seg in enumerate(segments, start=1):
+                    st.markdown(f"**Option {idx} (Priority Window):**")
                     st.code(f"Start: {seg.get('start_timestamp', '00:00')} ➡️ End: {seg.get('end_timestamp', '00:00')}")
                     
                 st.markdown("**🧠 Why it works standalone:**")
@@ -123,8 +120,8 @@ if promos_by_ep:
                     st.markdown(f"**🧗 Cliffhanger:** {promo.get('cliffhanger', 'N/A')}")
                 with rc2:
                     st.markdown(f"**⏱️ Exact Segments:**")
-                    for seg in segments:
-                        st.code(f"{seg.get('start_timestamp', '00:00')} ➡️ {seg.get('end_timestamp', '00:00')}")
+                    for s_idx, seg in enumerate(segments, start=1):
+                        st.code(f"Option {s_idx}: {seg.get('start_timestamp', '00:00')} ➡️ {seg.get('end_timestamp', '00:00')}")
                     st.markdown(f"**🧠 Why Post First:** {promo.get('reasoning', 'N/A')}")
 else:
     st.warning("⏳ No promos found yet. Check your `raw_outputs` folder!")

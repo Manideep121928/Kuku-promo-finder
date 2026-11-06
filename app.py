@@ -17,7 +17,7 @@ st.title("🎬 Kuku Microdrama Promo Extractor")
 st.markdown("Automated AI pipeline extracting high-converting hooks, timestamps, and cliffhangers from screenplays.")
 st.divider()
 
-output_dir = "." 
+output_dir = "raw_outputs" 
 
 @st.cache_data
 def load_promos():

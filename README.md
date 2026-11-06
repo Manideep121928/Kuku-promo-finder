@@ -1,4 +1,4 @@
-Kuku Microdrama Promo Extractor & Ranker
+*Kuku Microdrama Promo Extractor & Ranker*
 An automated AI pipeline and interactive web dashboard built to extract, analyze, and rank high-converting, standalone promotional clips (20–60 seconds) from microdrama screenplays. Designed for fast-paced content platforms like ReelShort and DramaBox.
 
 🚀 Key Features

@@ -7,7 +7,7 @@ Built for short-form storytelling platforms such as ReelShort and DramaBox, the 
 
 ## 🚀 Key Features
 
-### 1. Intelligent Promo Clip Extraction
+### 1.Promo Clip Extraction
 - Uses **Google Gemini 3.5 Flash-Lite** to analyze raw screenplay text.
 - Identifies high-tension scenes, emotional turning points, dramatic reveals, and compelling cliffhangers.
 - Extracts standalone promotional segments with strong audience-engagement potential.

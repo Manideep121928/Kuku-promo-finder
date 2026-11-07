@@ -64,9 +64,9 @@ Kuku-promo-finder/
 │
 ├── Episodes/               # Raw screenplay text files
 │
-├── raw_outputs1/           # Generated JSON promo extraction results
-│
 ├── extractor.py            # AI-powered extraction and validation pipeline
+│
+├── raw_outputs/           # Generated JSON promo extraction results
 │
 ├── app.py                  # Interactive Streamlit dashboard
 │

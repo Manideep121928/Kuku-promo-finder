@@ -4,7 +4,7 @@ An automated AI pipeline and interactive web dashboard built to extract, analyze
 
 ## 🚀 Key Features
 
-* **Intelligent Clip Extraction**: Utilizes Gemini 3.5 Flash-Lite to analyze raw screenplay text and identify high-tension promotional windows.
+* **Clip Extraction**: Utilizes Gemini 3.5 Flash-Lite to analyze raw screenplay text and identify high-tension promotional windows.
 * **Strict Duration & Continuity Enforcement**: Programmatically validates and enforces clip windows to be strictly 20 to 60 seconds long, preventing excessively short cuts or fragmented clips.
 * **Multi-Option Support**: Extracts multiple viable promo options per episode (e.g., mid-scene conflict twists and ending cliffhangers) to maximize marketing flexibility.
 * **Automated Heuristic Ranking**: Calculates a global leaderboard ranking based on narrative richness, hook impact, and retention potential.

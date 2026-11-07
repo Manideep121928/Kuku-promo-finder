@@ -27,6 +27,7 @@ An automated AI pipeline and interactive web dashboard built to extract, analyze
 ├── extractor.py           # Automated AI extraction script with duration validation
 ├── app.py                 # Interactive Streamlit dashboard application
 └── requirements.txt       # Project dependencies
+```
 
 ⚙️ Installation & Setup
 1. Clone the Repository

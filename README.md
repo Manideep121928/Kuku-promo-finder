@@ -35,8 +35,8 @@ Plaintext
 ⚙️ Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/Manideep1928/Kuku-promo-finder.git
+cd Kuku-promo-finder
 2. Install Dependencies
 Bash
 pip install -r requirements.txt
@@ -70,9 +70,9 @@ JSON
     {
       "option_number": 1,
       "segments": [
-        {
-          "start_timestamp": "00:09.80",
-          "end_timestamp": "00:43.90"
+      {
+          "start_timestamp": " ",
+          "end_timestamp": " "
         }
       ],
       "hook": "Juliana discovers her fiancé at the altar with another woman.",

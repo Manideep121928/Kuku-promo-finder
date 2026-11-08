@@ -1,6 +1,6 @@
 
 # 🎬 Kuku Microdrama Promo Extractor & Ranker
-
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Open_App-blue?logo=streamlit)](https://kuku-promo-finder-azwufwgoh5hwvsq8oxs2wp.streamlit.app/)
 An AI-powered pipeline and interactive web dashboard designed to extract, analyze, and rank high-potential promotional clips (20–60 seconds) from microdrama screenplays.
 
 Built for short-form storytelling platforms such as ReelShort and DramaBox, the system identifies compelling narrative moments, emotional hooks, and cliffhangers that can be used as standalone promotional content.
